@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: rgb(36, 32, 61);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.card-title{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.card{
+    background-image: linear-gradient(to right,rgb(238, 231, 231),rgb(55, 56, 58));
+    margin: 10px;
+    padding: 0;
+}
+.card-body{
+    padding: 0;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.card-img-top{
+    height: 200px;
+}
+.card-text{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+}
+.temprature{
+    color: white;
+    text-align: center;
+}
+.text-center{
+    background-color: brown;
+    text-align: center;
+    color: sandybrown;
+}
